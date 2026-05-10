@@ -5,6 +5,11 @@ https://claude.ai/share/dad177cc-b8c8-4031-9abc-95e5ba8cbc20
 데이터 전처리 과정 + 대시보드 작성
 
 ---
+
+# 대시보드 사이트 링크 공유
+https://seoulyouthliving-pvuzzmpunwfypmbdt6jtrc.streamlit.app/
+
+---
 # 🏠 청년 1인가구, 서울 어디에서 살면 좋을까?
 ### 서울 1인가구 주거환경 대시보드
 
