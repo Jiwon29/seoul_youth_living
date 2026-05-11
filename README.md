@@ -182,5 +182,3 @@ https://seoulyouthliving-pvuzzmpunwfypmbdt6jtrc.streamlit.app/
 - **SQLite** - 경량 데이터베이스
 - **카카오맵 API** - 주소 → 위경도 지오코딩
 
-
-*본 프로젝트는 숙명여자대학교 경영정보처리론 실습과제2로 제작되었습니다.*
